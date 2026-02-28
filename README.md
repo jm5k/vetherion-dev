@@ -11,3 +11,6 @@ A simple static site (HTML/CSS/JS) used for short dev notes, release notes, and 
 
 ## Deployment
 Deployed via Cloudflare Pages from the `main` branch.
+
+## License
+All Rights Reserved. See `LICENSE`.
